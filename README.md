@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2465-shifting-letters-ii) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -59,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -100,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
