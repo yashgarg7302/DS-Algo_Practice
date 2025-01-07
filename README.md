@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0547-number-of-provinces) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0547-number-of-provinces) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0547-number-of-provinces) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
 ## String
 |  |
@@ -112,5 +116,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
