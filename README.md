@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
