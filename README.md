@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## String
 |  |
@@ -160,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
