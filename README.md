@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2145-grid-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
+| [2145-grid-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2685-first-completely-painted-row-or-column) |
 ## Union Find
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2691-count-vowel-strings-in-ranges) |
