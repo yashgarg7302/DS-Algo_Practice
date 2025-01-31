@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1558-course-schedule-iv) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
