@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0812-rotate-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1170-shortest-common-supersequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
