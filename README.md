@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0812-rotate-string) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -289,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0494-target-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
