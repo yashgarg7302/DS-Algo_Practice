@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2685-first-completely-painted-row-or-column) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Depth-First Search
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
