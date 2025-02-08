@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Design
 |  |
 | ------- |
@@ -325,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
