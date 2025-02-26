@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1170-shortest-common-supersequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1170-shortest-common-supersequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
