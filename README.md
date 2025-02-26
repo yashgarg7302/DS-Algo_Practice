@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0229-majority-element-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0066-plus-one) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2448-count-number-of-bad-pairs) |
