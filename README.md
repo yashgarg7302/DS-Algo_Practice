@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1364-tuple-with-same-product) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2509-minimize-xor) |
