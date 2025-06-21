@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Stack
 |  |
