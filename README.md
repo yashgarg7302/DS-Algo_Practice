@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
