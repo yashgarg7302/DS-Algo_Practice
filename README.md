@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
