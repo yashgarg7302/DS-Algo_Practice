@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
+| [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
+| [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
