@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -389,10 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Tree
@@ -484,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
