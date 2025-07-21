@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0441-arranging-coins](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0282-expression-add-operators](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0282-expression-add-operators) |
+| [0441-arranging-coins](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0441-arranging-coins) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2448-count-number-of-bad-pairs) |
