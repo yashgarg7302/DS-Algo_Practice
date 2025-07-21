@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
