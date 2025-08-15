@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0739-daily-temperatures](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0890-lemonade-change) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -522,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
