@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0229-majority-element-ii) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0282-expression-add-operators](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0441-arranging-coins) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
