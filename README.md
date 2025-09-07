@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0494-target-sum) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
 | [0282-expression-add-operators](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
