@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0739-daily-temperatures](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0883-car-fleet) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0890-lemonade-change) |
