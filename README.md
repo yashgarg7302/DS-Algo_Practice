@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2792-neighboring-bitwise-xor) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Stack
