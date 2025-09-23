@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0647-palindromic-substrings) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0165-compare-version-numbers) |
 | [0282-expression-add-operators](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0424-longest-repeating-character-replacement) |
