@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0229-majority-element-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0282-expression-add-operators](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0282-expression-add-operators](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0441-arranging-coins) |
