@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0164-maximum-gap) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0120-triangle) |
 | [0343-integer-break](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0494-target-sum) |
