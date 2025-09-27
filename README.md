@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0739-daily-temperatures](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0739-daily-temperatures) |
+| [0830-largest-triangle-area](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0883-car-fleet) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0441-arranging-coins) |
+| [0830-largest-triangle-area](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0830-largest-triangle-area) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -602,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0164-maximum-gap) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
