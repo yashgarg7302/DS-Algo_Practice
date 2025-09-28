@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0883-car-fleet) |
+| [1018-largest-perimeter-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1464-reduce-array-size-to-the-half](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0441-arranging-coins) |
 | [0830-largest-triangle-area](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
