@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3336-water-bottles-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
