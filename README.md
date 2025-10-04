@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0125-valid-palindrome) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0621-task-scheduler) |
