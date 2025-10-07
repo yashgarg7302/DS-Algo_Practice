@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1464-reduce-array-size-to-the-half](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [2429-design-a-food-rating-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2434-design-a-number-container-system) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1464-reduce-array-size-to-the-half](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2509-minimize-xor) |
