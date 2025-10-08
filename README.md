@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2465-shifting-letters-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
