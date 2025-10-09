@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3415-check-if-grid-satisfies-conditions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3429-special-array-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
 | ------- |
