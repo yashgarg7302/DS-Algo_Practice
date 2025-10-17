@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2792-neighboring-bitwise-xor) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
 |  |
@@ -673,5 +676,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
