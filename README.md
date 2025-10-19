@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1558-course-schedule-iv) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1876-map-of-highest-peak) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -681,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
