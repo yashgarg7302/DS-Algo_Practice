@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Design
 |  |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Game Theory
 |  |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Radix Sort
 |  |
 | ------- |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
