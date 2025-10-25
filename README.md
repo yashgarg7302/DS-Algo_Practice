@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2448-count-number-of-bad-pairs) |
