@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2145-grid-game](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2145-grid-game) |
+| [2169-simple-bank-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2169-simple-bank-system) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2169-simple-bank-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2429-design-a-food-rating-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2429-design-a-food-rating-system) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2169-simple-bank-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0355-design-twitter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1477-product-of-the-last-k-numbers) |
+| [2169-simple-bank-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
