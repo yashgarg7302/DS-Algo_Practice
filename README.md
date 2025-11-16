@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1018-largest-perimeter-triangle) |
+| [1039-find-the-town-judge](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1006-vowel-spellchecker) |
+| [1039-find-the-town-judge](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
+| [1039-find-the-town-judge](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
