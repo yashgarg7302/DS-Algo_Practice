@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1073-number-of-enclaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1612-avoid-flood-in-the-city) |
@@ -571,12 +573,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -584,12 +588,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Brainteaser
 |  |
