@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0190-reverse-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3719-longest-balanced-subarray-i) |
