@@ -745,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/3719-longest-balanced-subarray-i) |
+## Database
+|  |
+| ------- |
+| [1211-queries-quality-and-percentage](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
