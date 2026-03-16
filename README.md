@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1211-queries-quality-and-percentage) |
+| [1729-find-followers-count](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yashgarg7302/DS-Algo_Practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
